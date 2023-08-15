@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '杜佳磊',
   domain: 'https://www.notion.so/rivers-for-book/4cf1d0e580b545198745de261b95a3a0',
-  author: 'DaDa',
+  author: 'Rivers-Dada',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
